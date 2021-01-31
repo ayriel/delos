@@ -1,7 +1,7 @@
 ### A
 ||||
 |---|---|---|
-|[[images/huma-abedin.png]]|Huma Abedin||
+|![](images/huma-abedin.png)|Huma Abedin||
 |[[images/aras-agalarov.png]]|Aras Agalarov|Russian real-estate developer<br>Father of Emin Agalarov|
 |[[images/emin-agalarov.png]]|Emin Agalarov|Son of Russian real-estate developer Aras Agalorov<br>Requested meeting with Trump team through Robert Goldstone|
 |[[images/zainab-ahmad.png]]|Zainab N. Ahmad|Mueller Probe Attorney|
