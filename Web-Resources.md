@@ -35,6 +35,9 @@ https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-commi
 https://thebaffler.com/salvos/from-russia-with-panic-levine  
 https://www.voanews.com/usa/cyber-firm-rewrites-part-disputed-russian-hacking-report  
 ### D
+#### Delek Drilling
+[DEL-FSTM-31DEC2016](https://www.worldreginfo.com/wdoc.aspx?file=DELEK_DRILLIN/2/C7BA4C0B-F0F6-401A-A4CA-9F6B99061CBE/369993_rfa_2016_en_il0004750209.pdf) "Delek Drilling 2016 Financial Statements as of December 31, 2016, Audited", worldreginfo.com, retrieved 8 Nov 2019.    
+
 #### Alexander Downer
 [DOW-SOLO-5MAR18](https://thehill.com/376858-australian-diplomat-whose-tip-prompted-fbis-russia-probe-has-tie-to-clintons) "Australian diplomat whose tip prompted FBI’s Russia-probe has tie to Clintons", thehill.com, John Solomon and Alison Spann, 5 Mar 2018.  
 ### E
@@ -94,12 +97,18 @@ http://www.mcwhirterfoundation.org/oxford
 [LAU-JPOS-28NOV14](https://www.jpost.com/Israel-Elections/Landau-leaves-politics-after-31-years-385975), Jerusalem Post, jpost.com, Lahav Harkov, 28 Nov 2014.  
 See also: [[Landau|Web+Resources#Landau]]  
   
+#### Yigal Landau
+[LAY-WEB](http://yigal-landau.org) "Businessman Yigal Landau", yigal-landau.org, retrieved 8 Nov 2019.  
+[LAY-WEBS](https://www.yigallandau.org/) "Yigal Landau", yigallandau.org, retrieved 8 Nov 2019.  
+  
 #### Leviathan
 [LEV-MECH-ARCHAIC](https://www.mechon-mamre.org/p/pt/pt2703.htm#8) "Leviathan" in Job Chapter 3, machon-mamre.org, retrieved 31 Oct 2019.  
 [LEV-WIKI-30OCT19](https://en.wikipedia.org/wiki/Leviathan) "Leviathan", wikipedia.org, 30 Oct 2019.  
   
 #### Leviathan Gas Field
+[LVGF-RDRV](https://thereaderwiki.com/en/Leviathan_gas_field) "Leviathan Gas Field", thereaderwiki.com, retrieved 11 Nov 2019.  
 [LVGF-NOBL-29NOV10](https://web.archive.org/web/20131230233815/http://investors.nobleenergyinc.com/releaseDetail.cfm?releaseid=533403) "Noble Energy Announces Operational Update at Leviathan Offshore Israel", web.archive.org, Noble Energy Inc., 29 Nov 2010.  
+[LVGF-BRON-30DEC19]() "Gas Field Confirmed Off Coast of Israel", Ethan Bronner, nytimes.com, 30 Dec 2010.  
 [LVGF-WIKI-18OCT19](https://en.wikipedia.org/wiki/Leviathan_gas_field) "Leviathan Gas Field", wikipedia.org, retrieved 31 Oct 2019.  
   
 [LVGF-TIME-18APR18](https://www.timesofisrael.com/octogenarian-geologist-behind-israels-giant-gas-field-eyes-foreign-waters/) "Octogenerian geologist behind Israel's giant gas field eyes ...", timesofisrael.com.  
@@ -208,6 +217,20 @@ https://www.zoominfo.com/p/Curtis-Heide/-1850032507
 #### William Purves
 http://powerbase.info/index.php/William_Purves  
 ### R
+#### Ratio Malta
+https://www.ratiopetroleum.com/en/about/ratio-petroleum/    
+https://www.timesofmalta.com/articles/view/20150204/local/agreement-on-oil-exploration-study-signed.554790  
+https://maltaprofile.info/article/israeli-company-awarded-exploration-study-agreement-offshore-malta  
+https://www.maltatoday.com.mt/news/national/49260/israeli_company_awarded_exploration_study_agreement_offshore_malta  
+https://continentalshelf.gov.mt/en/Pages/Oil-and-Gas-Exploration.aspx  
+http://www.independent.com.mt/articles/2015-02-04/local-news/Maltese-government-signs-new-two-year-oil-exploration-agreement-with-Israeli-company-6736130098  
+https://www.cia.gov/library/publications/the-world-factbook/geos/print_mt.html  
+https://www.ratioil.com/  
+http://www.eitaneisenberg.net/  
+
+#### Ratio Oil Exploration [1992] Limited Partnership  
+[RAT-PRES-OCT2016](https://ratio-media.s3-eu-central-1.amazonaws.com/%D7%9E%D7%A6%D7%92%D7%AA_%D7%94%D7%A9%D7%95%D7%AA%D7%A4%D7%95%D7%AA-_%D7%90%D7%95%D7%A7%D7%98%D7%95%D7%91%D7%A8_2016.pdf) "Ratio Oil Exploration 1992 Ltd., Partnership Presentation, October 2016", retrieved 8 Nov 2019.    
+  
 #### Robin Renwick
 https://wikispooks.com/wiki/Robin_Renwick  
 #### Seth Rich
