@@ -5,4 +5,4 @@ This site is a work in progress. Updates are made frequently. For simplicity, th
 [Cast of Characters](Cast-of-Characters.md)  
 [Web Resources](Web-Resources.md)
 
-Copyright 2021 Ayriel Merici. MIT License.
+Copyright 2021 Ayriel Merici. All rights reserved.
