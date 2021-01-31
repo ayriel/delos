@@ -2,6 +2,7 @@ Welcome to Delos! This site provides documents and analyses relating to particul
 
 This site is a work in progress. Updates are made frequently. For simplicity, this Home page presents a general table of contents. The referenced pages provide more detailed presentations of source material.
 
+[Cast of Characters](Cast-of-Characters.md)  
 [Web Resources](Web-Resources.md)
 
 Copyright 2021 Ayriel de Merici. MIT License.
