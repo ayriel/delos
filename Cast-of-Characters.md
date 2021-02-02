@@ -8,8 +8,8 @@
 |![](images/rinat-akhmetshin.png)|Rinat Akhmetshin||
 |![](images/madeleine-albright.png)|Madeleine Albright|Former US Secretary of State<br>Cambridge Symposium Speaker, July 2016|
 |![](images/dmitri-alperovitch.png)|Dimitri Alperovitch|Crowdstrike Founder|
-|![](images/peter-ammon.png)|Peter Ammon|German Ambassador to the UK<br>Camridge Symposium Speaker, July 2016|
 |![](images/heather-alpino.png)|Heather Alpino|Mueller Probe Attorney|
+|![](images/peter-ammon.png)|Peter Ammon|German Ambassador to the UK<br>Camridge Symposium Speaker, July 2016|
 ||Sir Roy Anderson|Professor of Infectious Disease Epidemiology[1]<br>Former Rector, Imperial College London[1]<br>Hakluyt International Advisory Board[1]<br>[1] HAK-WIKI-26SEP19|
 |![](images/trisha-anderson.png)|Trisha Anderson||
 |![](images/greg-andres.png)|Greg Andres|Mueller Probe Attorney|
@@ -33,6 +33,7 @@
 |![](images/sidney-blumenthal.png)|Sidney Blumenthal||
 |![](images/john-brennan.png)|John O. Brennan|CIA Director under Barack Obama|
 ||Matthew Bryza|Former US Ambassador to Azerbaijan<br>Opposes George Papadopoulos' ideas about middle eastern energy policy|
+||Andrew Brown||
 |![](images/natalia-budaeva.png)|Natalia Budaeva||
 ||John Buretta|American criminal defense lawyer<br>Hired by Burisma to help address the case in Ukraine [BUR-SOLO-26SEP19]|
 |![](images/chris-burrous.png)|Chris Burrous||
@@ -42,6 +43,8 @@
 |---|---|---|
 |![](images/christian-cantor.png)|Christian Cantor|Israeli Embassy, London<br>Acquaintance of George Papadopoulos<br>Boyfriend of Erika Thompson in 2016<br>Introduced Papapdopoulos to Erika Thompson|
 ||Francesco Cappotto|CNAIPIC|
+||Michael Caputo||
+||John Carlin||
 ||Mike Carpenter|Foreign and defense policy advisor to Vice President Joe Biden (US)|
 |![](images/peter-carr.png)|Peter Carr||
 ||Ben Carson|2016 US Republican Presidential Candidate<br>Housing and Human Affairs Secretary under Trump|
@@ -71,6 +74,7 @@
 ||Rick Dearborn|Trump 2016 Campaign<br>Advised and handled George Papadopoulos|
 |![](images/richard-dearlove.png)|Sir Richard Dearlove|MI6; Hakluyt<br>Cambridge Symposium Speaker, July 2016|
 |![](images/giovanni-de-gennaro.png)|Giovanni De Gennaro||
+||Diana Denman||
 |![](images/oleg-deripaska.png)|Oleg Deripaska|Russian billionaire<br>Employed Paul Manafort|
 ||Elizabeth Dibble|US Deputy Chief of Mission at US Embassy, London<br>Possibly made contact with Alexander Downer while George Papadopoulos was in London|
 |![](images/ryan-dickey.png)|Ryan Kao Dickey|Mueller Probe Attorney|
@@ -83,12 +87,15 @@
 ||||
 |---|---|---|
 ||Yasser El-Shemy|Egyptian Embassy, D.C.<br>Introduced to Steve Bannon by Papadopoulos re: al-Sisi meeting with Trump, 2016|
+|![](images/eitan-eisenberg.png)|Eitan Eisenberg||
 |![](images/marc-elias.png)|Marc C. Elias|Attorney, Perkins Coie LLP<br>Political Law Practice Head<br>General Counsel, Kamala Harris 2020 Presidential Campaign|
 ||Francis Elliott|Times of London political editor<br>|
 ||Tobias Ellwood|British Foreign Ministry<br>Meets Papadopoulos in New York and asks a lot about Russia<br>Opposes Trump support of Brexit|
+||Boris Epshteyn||
 ### F
 ||||
 |---|---|---|
+||Evelyn Farkas||
 |![](images/diane-feinstein.png)|Diane Feinstein|US Senator, California<br>Senate Intelligence Cmte Chair|
 ||Clarice Feldman||
 |![](images/michael-flynn.png)|Lt. Gen. Michael T. Flynn|Director National Intelligence under Barack Obama<br>Opposed Iran Nuclear Deal<br>Support Donald Trump Presidential campaign|
@@ -97,6 +104,7 @@
 ### G
 ||||
 |---|---|---|
+|![](images/michael-gaeta.png)|Michael Gaeta|FBI Special Agent|
 |![](images/christopher-gent.png)|Christopher Gent|Managing Director Vodaphone UK, 1985<br>CEO Vodaphone, 1997<br>Director Hakluyt International Advisory Board, The Holdingham Group Advisory Board, 2004-2006<br>Chairman GlaxoSmithKline, 2005-|
 |![](images/paolo-gentiloni.png)|Paolo Gentiloni|Former Prime Minister of Italy, 2016-2018<br>Founding member of Italian Democratic Party|
 ||Gino Germani||
@@ -105,6 +113,7 @@
 |![](images/andrew-goldstein.png)|Andrew Daniel Goldstein|Mueller Probe Attorney|
 |![](images/robert-goldstone.png)|Robert Goldstone|British publicist<br>Proposed the Trump Tower meeting to Donald Trump Jr. at the request of his client Emin Agalarov| 
 |![](images/jeffrey-gordon.png)|Jeffrey D. (J.D.) Gordon||
+||Rhona Graff||
 |![](images/glenn-greenwald.png)|Glenn Greenwald|Journalist and author|
 |![](images/rudy-giuliani.png)|Rudy Giuliani|Rudolph William Louis Giuliani<br>American politician, attorney, speaker<br>Former New York City Mayor, 1994-2001|
 |![](images/trey-gowdy.png)|Trey Gowdy|Harold Watson "Trey" Gowdy III<br>Former federal prosecutor<br>Former Congressman for South Carolina District 4, 2011-2019|
@@ -149,6 +158,7 @@
 ||Panos Kammenos|Greek Defense Minister<br>Wanted to discuss moving US nukes from Incirlik to Souda Bay, Crete<br>Arranges meetings for Papadopoulos wiht Egyptian contacts|
 ||Fr. Alex Karloutsos|Head of Public Affairs, Greek Orthodox Archdiocese of America<br>Close to Clintons<br>Meets with Papadopoulos, Dec 2016|
 |![](images/kathleen-kavalec.png)|Kathleen A. Kavalec||
+||Ike Kaveladze||
 ||Robert Kelner|Former Attorney for Flynn Intel Group<br>Alleges Flynn set up by Jim Woolsey|
 ||Bridget Kendall|BBC Diplomatic Correspondent<br>Master of Peterhouse College<br>Cambridge Symposium Speaker, July 2016|
 ||Neil King Jr.||
@@ -160,12 +170,13 @@
 ### L
 ||||
 |---|---|---|
-||Uzi Landau|Son of Haim Landau, Irgun Commander and leader of Herut<br>PhD in engineering from MIT<br>Worked as a system analyst before entering politics<br>Knesset member in Likud, 1984-2006<br>Fired by Ariel Sharon for voting against Gaza disengagement<br>Israel tourism minister [[Uzi Landau|Web+Resources#Uzi+Landau]]|
-||Yigal Landau|Son of Yeshayahu (Shaikeh) Landau. Bsc Engineering, Technion, Haifa, Israel, 1982. MBA Tel Aviv Univ., 1986. CEO Hiram Landau Ltd., 1990-. Director and CEO, Ratio Oil Exploration, 1992-. Union Bank of Israel Board, 1993-. Director, Proseed Venture Capital Fund Ltd., 2001-. Director, "Dalia" Power Energies Ltd., 2005-2013. Proponent of Israel energy independence.|
+|![](images/uzi-landau.png)|Uzi Landau|Son of Haim Landau, Irgun Commander and leader of Herut<br>PhD in engineering from MIT<br>Worked as a system analyst before entering politics<br>Knesset member in Likud, 1984-2006<br>Fired by Ariel Sharon for voting against Gaza disengagement<br>Israel tourism minister [[Uzi Landau|Web+Resources#Uzi+Landau]]|
+|![](images/yigal-landau.png)|Yigal Landau|Son of Yeshayahu (Shaikeh) Landau.<br>Bsc Engineering, Technion, Haifa, Israel, 1982.<br>MBA Tel Aviv Univ., 1986.<br>CEO Hiram Landau Ltd., 1990-.<br>Director and CEO, Ratio Oil Exploration, 1992-.<br>Union Bank of Israel Board, 1993-.<br>Director, Proseed Venture Capital Fund Ltd., 2001-.<br>Director, "Dalia" Power Energies Ltd., 2005-2013.<br>Proponent of Israel energy independence.|
 ||Brian Lanza|Trump 2016 Campaign<br>Contacted by Interfax for interview with Papadopoulos|
 ||Patrick Lawrence||
 ||Talia Leibovich|Asst Deputy Chief of Mission US Embassy, Israel<br>Asks Papadopoulos to beed Oded Joseph|
 ||Corey Lewandowski|Trump Campaign Manager|
+|![](images/avigdor-lieberman.png)|Avigdor Lieberman|Soviet-born Israeli politician<br>Israeli Defense Minister 2016-2018|
 ||Edward Lieberman||
 ||Evelyn Lieberman||
 ||Dafna Linzer||
@@ -174,7 +185,7 @@
 ### M
 ||||
 |---|---|---|
-||Sir Fitzroy MacLean<br>1911-1996|UK WWII hero, diplomat and author<br>Former Member of Parliament<br>CIA Senior Operations Officer<br>Hakluyt Founder|
+|![](images/fitzroy-maclean.png)|Sir Fitzroy MacLean<br>1911-1996|UK WWII hero, diplomat and author<br>Former Member of Parliament<br>CIA Senior Operations Officer<br>Hakluyt Founder|
 ||Paul Manafort||
 |![](images/simona-mangiante.png)|Simona Mangiante||
 ||Iryna Mazur||
@@ -197,6 +208,7 @@
 ||||
 |---|---|---|
 ||Jerold Nadler|US Representative<br>House Judicial Cmte Chair|
+||Alexander Nix||
 ||Victoria Nuland||
 |![](images/devin-nunes.png)|Devin Nunes|US Representative<br>Former Chairman, US House Intelligence Cmte<br>Ranking member, US House Intelligence Cmte|
 ### O
@@ -217,8 +229,10 @@
 ||Capt. Robert Palm Jr.|US Defense Attache US Embassy Greece<br>Meets with Papadopoulos<br>Papadopoulos mediates meeting between Palm and Kammenos|
 ||Alessandro Pansa||
 |![](images/george-papadopoulos.png)|George Papadopoulos|Hudson Institute energy policy expert<br>Trump Presidential campaign adviser|
+||Brad Parscale||
 ||Frederico Pereno|CNAIPIC|
 |![](images/walid-phares.png)|Walid Phares||
+|![](images/joe-pientka.png)|Joe Pientka|FBI Supervisory Special Agent (SSA)|
 ||Roberta Pinotti||
 ||Gianni Pittella|Italian politician and parliament member<br>Introduces Joseph Mifsud to Simone Mangiante, circa 2012<br>London Academy of Diplomacy (LAD)<br>Taught "Dealing with the Media" with Crawford and Mifsud<br>Recommends Simone Mangiante work with Mifsud at LCILP<br>Spoke at the 2016 Democratic National Convention (DNC)|
 |![](images/valerie-plame.png)|Valerie Plame|Former CIA Officer|
@@ -241,19 +255,22 @@
 |![](images/robin-renwick.png)|Robin Renwick||
 |![](images/matteo-renzi.png)|Matteo Renzi|Former Prime Minister of Italy, 2014-2016<br>Italian Senator for Florence, 2018-|
 |![](images/jeannie-rhee.png)|Jeannie Sclafani Rhee||
-||Ben Rhodes||
+||Benjamin Rhodes||
 ||Brian Richardson|Attorney, Office of the Special Counsel|
 ||Sir Malcom Rifkind|Former UK Defence and Foreign Secretary<br>Cambridge Symposium Speaker, July 2016|
 ||Seth Rich|Democratic National Committee employee|
 ||Brian Richardson||
 ||Susan Rice||
+||Lawrence Robbins|Attorney for David Kramer|
 |![](images/stephan-roh.png)|Stephen Roh|Part owner of Link Campus University<br>Attorney for Joseph Mifsud<br>Authored a book asserting Mifsud's allegiance to Western intelligence|
 |![](images/rod-rosenstein.png)|Rod Rosenstein|US Department of Justice Deputy Attorney General|
 |![](images/james-rybicki.png)|James E. Rybicki|FBI|
 ### S
 ||||
 |---|---|---|
+||Jonathan Safron||
 |![](images/arvinder-sambei.png)|Arvinder Sambei||
+||Anatoli Samochornov||
 |![](images/felix-sater.png)|Felix Henry Sater|Felix Mikhailovich Sheferovsky<br>Former managing director, Bayrock Group LLC<br>1998 pleaded guilty to stock fraud<br>1998 became FBI informant, approved by Andrew Weissman<br>approached Michael Cohen about building a Trump Tower in Moscow|
 ||Adam Schiff|US Representative<br>House Intelligence Cmte Chair|
 ||Benjamin Schmidt||
@@ -261,7 +278,7 @@
 ||Vincenzo Scotti|Italian Foreign Minister<br>President, Link Campus University|
 ||Igor Sechin||
 ||Begona Corina Segurola||
-||Jeff Sessions|1st US Attorney General under Donald Trump|
+||Jefferson B. Sessions|1st US Attorney General under Donald Trump|
 ||Yuriy Sevruk|Ukrainian prosecutor<br>Named to temporarily replace Shokin [BUR-SOLO-26SEP19]|
 ||Adam Shaw||
 ||Cody Shearer||
@@ -276,6 +293,7 @@
 |![](images/peter-strzok.png)|Peter Strzok||
 ||Cass Sunstein||
 ||Emmett Sullivan||
+||Jake Sullivan||
 ||Vladislav Surkov||
 |![](images/louis-susman.png)|Louis Susman|Former Chicago businessman[1]<br>National Finance Director, John Kerry Presidential Campaign[1]<br>Fundrasier for Obama Presidential Campaign[1]<br>Named in several leaked DNC emails[1]<br>Former US Ambassador to UK[1,2]<br>Hakluyt International (Holdingham) Advisory Board[1,2]<br>[1] HAK-CARL-9MAY18<br>[2] HAK-WIKI-26SEP19|
 ||Michael Sussmann||
@@ -284,14 +302,18 @@
 ||||
 |---|---|---|
 ||Gideon Tadmor|Chief Executive, Delek Energy and Avner Oil Exploration|
+||Matthew F. Tait||
 ||Strobe Talbott||
 |![](images/charles-tawil.png)|Charles Tawil|FBI Informant<br>Met Papadopolous in Mykonos<br>Offered trip to Israel to Papadopoulos<br>Gave Papadopoulos $10,000 USD in cash<br>Reported by Wikileaks to be a State Department Informant<br>Consultant, Gestomar (LinkedIn)|
+|![](images/william-taylor.png)|William Brockenbrough Taylor, Jr.|American diplomat and government official<br>former soldier<br>6th US Ambassador to Ukraine, 2006-2009, Acting Ambassador to Ukraine, June 2019 - Jan 2020.|
 |![](images/erika-thompson.png)|Erika Thompson|Political counsellor at the Australian High Commission in London<br>Girlfriend of Christian Cantor in 2016<br>Met George Papadopoulos in London with Alexander Downer|
 |![](images/ivan-timofeev.png)|Ivan Timofeev|Introduced by Joseph Mifsud by email to George Papadopoulos|
 ||Karen Tramontano|Servied in Bill Clinton's administration<br>Ran Blue Star Strategies, American lobbying adnd public relations firm, with Sally Painter|
-||Anthony Trenga||
+|![](images/anthony-trenga.png)|Anthony John Trenga|United States District Judge, US District Court for the Eastern District of Virginia|
 |![](images/vyacheslav-trubnikov.png)|Vyacheslav Trubnikov|Russian journalist, intelligence officer and diplomat<br>KGB, 1967-<br>KGB CHief South-East Asia, 1990-91<br>First Deputy Director Foreign Intelligence Service, 1992<br>Director of Foreign Intelligence, 1996-2000<br>First Deputy Foreign Minister, 2000-2004<br>Ambassador to India, 2004|
 |![](images/donald-trump.png)|Donald John Trump||
+||Donald Trump Jr.||
+|![](images/yitzhak-tshuva.png)|Yitzhak Tshuva||
 ||Evan Turgeon||
 |![](images/azra-turk.png)|Azra Turk|Accompanied Stefan Halper in meeting with George Papadopoulos<br>Attempted to elicit information from Papadopoulos relating to Trump campaign ties to Russia, 15 Sep 2016|
 ### U
@@ -315,12 +337,15 @@
 |![](images/vin-weber.png)|Vin Weber|Former Congressman<br>US Republican Party strategist<br>Cambridge Symposium Speaker, July 2016|
 |![](images/anthony-weiner.png)|Anthony Weiner||
 |![](images/andrew-weissmann.png)|Andrew Weissmann|1998 signed agreement making Felix Sater an FBI informant<br>Attorney on Mueller team|
+|![](images/nigel-west.png)|Nigel West||
 ||Brian Wilson||
 |![](images/jonathan-winer.png)|Jonathan Winer||
+|![](images/frank-wisner-jr.png)|Frank G. Wisner, Jr.||
 |![](images/benjamin-wittes.png)|Benjamin Wittes||
 |![](images/andrew-wood.png)|Sir Andrew Wood|Chatham House|
-|![](images/james-woolsey.png)|CIA Director, 1993-1995<br>Alleged by Rob Kelner of setting up Michael Flynn|
+|![](images/james-woolsey.png)|James Woolsey|CIA Director, 1993-1995<br>Alleged by Rob Kelner of setting up Michael Flynn|
 |![](images/christopher-wray.png)|Christopher A. Wray||
+||Christopher Wylie||
 ### Y
 ||||
 |---|---|---|
@@ -333,4 +358,4 @@
 |![](images/aaron-zebley.png)|Aaron Zebley||
 ||Volodymyr Zelensky||
 |![](images/aaron-zelinsky.png)|Aaron Simcha Jon Zelinsky||
-||Mykola Vladislavovich Zlochevsky|Founded Burisma Holdings with Mykola Lisin, 2002<br>Minister of Ecology and Natural Resources, Ukraine, Jul 2010 - Apr 2012<br>Deputy Secretary for Economic and Social Security, National Defense Council, Apr 2012 - Feb 2014|
+|![](images/mykola-zlochevsky.png)|Mykola Vladislavovich Zlochevsky|Founded Burisma Holdings with Mykola Lisin, 2002<br>Minister of Ecology and Natural Resources, Ukraine, Jul 2010 - Apr 2012<br>Deputy Secretary for Economic and Social Security, National Defense Council, Apr 2012 - Feb 2014|
